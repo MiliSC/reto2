@@ -1,0 +1,17 @@
+body{
+	background-color: beige;
+}
+.icon:hover{
+	transform: scale(1.1);
+    transition: .2s;
+        z-index: 1000;
+}
+.icon{
+	border-radius: 50%;
+}
+.fotoperfil{
+	border-radius: 50%;
+}
+h1{
+	color: #2026A9;
+}
