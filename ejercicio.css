@@ -1,0 +1,151 @@
+.portafolio{
+    position: absolute;
+    width: 156px;
+    height: 28px;
+    left: 38px;
+    top: 1301px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    color: #AAD206;   
+}
+.p1{
+    position: absolute;
+    width: 1367px;
+    height: 114px;
+    left: 38px;
+    top: 1345px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    color: #000000;
+
+}
+.p2{
+    position: absolute;
+    width: 1367px;
+    height: 114px;
+    left: 40px;
+    top: 1440px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    color: #000000;
+}
+.rectangle8{
+    position: absolute;
+width: 385px;
+height: 182px;
+left: 43px;
+top: 1566px;
+
+background: url(.jpg);
+}
+.rectangle9{
+    position: absolute;
+    width: 385px;
+    height: 182px;
+    left: 458px;
+    top: 1566px;
+    
+    background: url(.jpg);
+}
+.rectangle10{
+    position: absolute;
+    width: 385px;
+    height: 182px;
+    left: 873px;
+    top: 1566px;
+    
+    background: url(.jpg);
+}
+.li1{
+    position: absolute;
+    width: 158px;
+    height: 196px;
+    left: 49px;
+    top: 1790px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 44px;
+    /* or 244% */
+    
+    
+    color: #AE8800;
+}
+
+.li2{
+    position: absolute;
+    width: 158px;
+    height: 196px;
+    left: 49px;
+    top: 1830px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 44px;
+    /* or 244% */
+    
+    
+    color: #AE280B;
+
+    
+}
+
+.li3{
+    position: absolute;
+    width: 158px;
+    height: 196px;
+    left: 49px;
+    top: 1870px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 44px;
+    /* or 244% */
+    
+    
+    color: #060564;
+}
+
+.li4{
+    position: absolute;
+    width: 158px;
+    height: 196px;
+    left: 49px;
+    top: 1910px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 44px;
+    /* or 244% */
+    
+    
+    color: #637300;
+}
